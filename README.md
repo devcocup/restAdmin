@@ -1,7 +1,5 @@
 # REST-ADMIN
 
-### [README - 简体中文](./README-zh.md)
-
 > An Powerful Admin Dashboard based on Vue.js and Boostrap v4.
 
 REST-ADMIN is trying to make it easier to built an admin dashboard for any backend services. All you need to do is just provide a RESTful api for it.
@@ -29,8 +27,8 @@ REST-ADMIN is trying to make it easier to built an admin dashboard for any backe
 
 ## Quick Start
 ```bash
-git clone git@github.com:wxs77577/rest-admin.git
-cd rest-admin
+git clone https://github.com/typescript59/restAdmin.git
+cd restAdmin
 code . # open with vscode [optional]
 npm i # or cnpm i
 
